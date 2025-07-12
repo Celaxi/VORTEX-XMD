@@ -9,12 +9,12 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "HansTz&elIX3KqD#1giJk3lwSLNJion8Uxr251sfk0mw8dcAndfxdWwcX3w"
      },  
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃"
+      "value": "Chris•↕️•↔️|"
      }, 
     "PREFIX": {
     "description": "paste your bot prefix note! Don't apply null prefix.",
@@ -69,12 +69,12 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "HansTech"
+      "value": "•>Chris"
     }, 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "2557607XXXX"
+      "value": "233598710283"
     }, 
     "BOT_NAME": {
       "description": "Type here the bot name.",
@@ -109,7 +109,7 @@
       "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ HansTz*"
+      "value": "*© CHRIS ON 🔝*"
     },
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
